@@ -19,8 +19,7 @@ Follow these steps to set up the environment and install necessary dependencies:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/voice-query-pipeline.git
-   cd voice-query-pipeline
+   git clone https://github.com/katakampranav/End-to-End-AI-Voice-Assistance-Pipeline.git
    ```
 
 2. **Install Dependencies**
